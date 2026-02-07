@@ -1,0 +1,21 @@
+
+ODREG DECO & EVENTX SERVICES - IMAGE ASSET GUIDE
+================================================
+
+To ensure your brand matches the high-quality visuals provided, please save your images from your desktop into this folder using these exact filenames:
+
+REQUIRED FILENAMES (MATCHING YOUR PHOTOS):
+------------------------------------------
+1. royal-couple-standing.jpg  -> Use for: Event Planning & Consulting Cover
+2. cultural-tour-torgag.jpg   -> Use for: Tour Management Cover (The TORGAG photo)
+3. vip-guest-protocol.jpg     -> Use for: Protocol & Ushering Cover (The guests at table)
+4. royal-throne-ceremony.jpg  -> Use for: Bespoke Decoration Cover (The couple on gold thrones)
+5. corporate-awards-stage.jpg -> Use for: Corporate Event Planning Cover (The group on stage)
+6. hero.jpg                   -> Main Homepage Banner (Recommend using 'royal-couple-standing.jpg' here too)
+
+FORMATS:
+--------
+- Recommended: .jpg or .png
+- Resolution: 1920x1080 for banners, 1000px+ for service cards.
+
+The code is now specifically written to tell the stories of these five images.

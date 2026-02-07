@@ -1,0 +1,8 @@
+{
+  "name": "ODREG DECO & EVENTX SERVICES",
+  "description": "Professional eventx planning, consulting, decoration, and protocol services bridging the UK and Ghana with cultural mastery and technical precision.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
